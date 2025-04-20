@@ -3,10 +3,10 @@
 - Author: Aaron Gillespie  
 - Date: 2025-04-20
 
-> [!tldr]
+> [!NOTE]
 > A somewhat tongue-in-cheek project utilizing machine learning and business intelligence tools against **12 years of quantified self data** to determine, once and for all, what contributes to a satisfying life. Compiled for fun, but also as part of Northwest Missouri's CSIS 44670 Final. 
 
-This repository is being created in service of Northwest Missouri State University 44608 Module 6 - Exploratory Data Analysis. It will accomplish the following objectives from the module:
+This repository is being created in service of Northwest Missouri State University 44608 Module 6 - Machine Learning Final Project. It will accomplish the following objectives from the module:
 
 - demonstrate skills with Jupyter, pandas, Seaborn and popular tools for data analytics
 - utilize machine learning to develop predictive models
@@ -19,7 +19,7 @@ This process was *extensive*, this README will serve as the tip of the iceburg.
 
 ![pre-work to get the data](assets/pre-work.png)
 
-> [!tip] Full story:
+> [!IMPORTANT]
 > See `gillespie_ml_data_journal.ipynb` for this content.
 
 ## Overall Summary
@@ -56,5 +56,6 @@ The predictive power considering the strongest *negative* correlates were lower 
 
 You can track dozens of datapoints about your life, but that doesn't make your subjective **life satisfaction** a highly-preditable phenomenon. Machine Learning is an **awesome technique**. It can be used to reliably predict the weather many days from now using phenomenon observed today... but it's not capable of devining results in a low-vailidity environment, such as the highly abstract nature of life satisfaction.
 
-> [!tldr] If you want to be more satisfied it wouldn't hurt to move more and work and be sick less...  
+> [!NOTE] 
+> If you want to be more satisfied it wouldn't hurt to move more and work and be sick less...  
 > ...but there's not much you can do to "hone" `satisfaction` levels using what's tracked here.
