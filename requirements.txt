@@ -56,6 +56,11 @@ seaborn
 # Treemaps
 squarify
 
+# ======================================================
+# MACHINE LEARNING
+# ======================================================
+# Core library for machine learning (100-200 MB)
+scikit-learn
 
 # ======================================================
 # STREAM PROCESSING - CAN BE VERY LARGE
@@ -63,5 +68,5 @@ squarify
 
 # Streaming data processing framework (~200-250 MB)
 # Currently requires Python <3.12, e.g. 3.11
-pyspark<4.0.0
+# pyspark<4.0.0
 
